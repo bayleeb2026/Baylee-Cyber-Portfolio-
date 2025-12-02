@@ -59,4 +59,4 @@ Notes on Linux, networking, Python, command usage, hacking methodology, and OSIN
 📬 Contact
 
 If you want to collaborate, reach out!
-bayleeb@gmail.com
+bayleeb2026@gmail.com
